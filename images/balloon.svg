@@ -1,0 +1,6 @@
+<svg id="balloon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70.57 119.62"><defs>
+<style>
+	.cls-1{fill:#fff;stroke-width:6px;}.cls-1,.cls-2,.cls-4,.cls-5{stroke:#000;stroke-miterlimit:10;}.cls-2,.cls-4,.cls-5{fill:none;}.cls-2{stroke-width:4px;}.cls-2,.cls-3,.cls-4,.cls-5{fill-rule:evenodd;}.cls-5{stroke-width:3px;}
+
+	#balloon:hover .cls-1{fill: #e1f7d5}
+</style></defs><title>balloon</title><ellipse class="cls-1" cx="35.29" cy="42.17" rx="32.29" ry="39.17"/><path class="cls-2" d="M14.11,44.81c0,11.65,9.18,23.94,18,25.41"/><polygon class="cls-3" points="35.68 82.33 38.91 87.92 42.13 93.51 35.68 93.51 29.23 93.51 32.45 87.92 35.68 82.33"/><path class="cls-4" d="M37.93,120.5"/><path class="cls-5" d="M35.29,89.27a19.57,19.57,0,0,1-3.18,9.53c-1.74,2.54-3.47,3.58-3.7,5.82-.27,2.58,1.63,4.88,3.17,6.35a8.6,8.6,0,0,1,3.18,3.18,8.73,8.73,0,0,1,1.06,5.29"/></svg>

@@ -1,0 +1,4 @@
+<svg id="candle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 139.14"><defs><style>.cls-1{fill:#fff;}.cls-1,.cls-2,.cls-3{stroke:#000;stroke-miterlimit:10;}.cls-1,.cls-2{stroke-width:4px;}.cls-2{fill:none;}.cls-3{fill:#070707;fill-rule:evenodd;}
+	#candle:hover .cls-3{fill:#E25822;}
+	#candle:hover .cls-1{fill:#FFB6C1;}
+</style></defs><title>candle</title><rect class="cls-1" x="2" y="45.14" width="19" height="92"/><line class="cls-2" x1="21" y1="45.14" x2="2" y2="64.23"/><line class="cls-2" x1="21" y1="65.14" x2="2" y2="84.23"/><line class="cls-2" x1="21" y1="85.14" x2="2" y2="104.23"/><line class="cls-2" x1="21" y1="105.14" x2="2" y2="124.23"/><line class="cls-2" x1="21" y1="125.14" x2="9" y2="137.14"/><path class="cls-3" d="M-111.73-40.61c6.65,14.4,13.5,33.43,0,36C-123-6.39-122.66-19.4-111.73-40.61Z" transform="translate(123.11 41.75)"/></svg>

@@ -1,0 +1,13 @@
+<svg id="pennant" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 193.69 72.04"><defs>
+	<style>
+		.cls-1{fill:none;stroke-width:4px;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5,.cls-6{stroke:#000;stroke-miterlimit:10;fill-rule:evenodd;}.cls-2{fill:azure;}.cls-2,.cls-3,.cls-4,.cls-5,.cls-6{stroke-width:3px;}
+		.cls-3{fill:#fff;}
+		.cls-4{fill:#fff;}
+		.cls-5{fill:#fff;}
+		.cls-6{fill:#fff;}
+	#pennant:hover .cls-2{fill:#bd3460;}
+	#pennant:hover .cls-3{fill:#bddf74;}
+	#pennant:hover .cls-4{fill:#f3efb4}
+	#pennant:hover .cls-5{fill:#81274b}
+	#pennant:hover .cls-6{fill:#950000}
+	</style></defs><title>pennant</title><path class="cls-1" d="M188.46,1.59C139.79,38.94,47,36.68,4,1.59"/><polygon class="cls-2" points="80.18 28.99 96.28 28.72 112.38 28.46 104.66 48.27 96.93 68.08 88.56 48.53 80.18 28.99"/><polygon class="cls-3" points="120.23 29.19 135.86 25.3 151.49 21.42 148.42 42.46 145.35 63.5 132.79 46.34 120.23 29.19"/><polygon class="cls-4" points="159.16 18.56 173.38 11.02 187.61 3.47 189.72 24.63 191.83 45.79 175.49 32.17 159.16 18.56"/><polygon class="cls-5" points="72.79 28.03 57.05 24.63 41.32 21.23 45.03 42.17 48.75 63.1 60.77 45.57 72.79 28.03"/><polygon class="cls-6" points="33.56 18.61 19.11 11.51 4.66 4.41 3.2 25.63 1.75 46.84 17.65 32.73 33.56 18.61"/></svg>

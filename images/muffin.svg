@@ -1,0 +1,8 @@
+<svg id="muffin" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120.67 126.54"><defs>
+	<style>
+		.cls-1{fill:#f5ffff;}.cls-1,.cls-2,.cls-3{stroke:#000;stroke-miterlimit:10;}.cls-1,.cls-3{stroke-width:7px;}.cls-2{fill:none;stroke-width:5px;}.cls-3{fill:#fff;}
+		
+		#muffin:hover .cls-1{fill:#c4a01a;}
+		#muffin:hover .cls-3{fill:#7B3F00;}
+
+	</style></defs><title>muffin</title><polygon class="cls-1" points="14.17 68.06 109.17 68.06 100.12 123.04 24.35 123.04 14.17 68.06"/><line class="cls-2" x1="61.67" y1="68.06" x2="61.67" y2="123.04"/><line class="cls-2" x1="29.68" y1="68.16" x2="37.12" y2="122.93"/><line class="cls-2" x1="49.23" y1="123.04" x2="45.84" y2="68.06"/><line class="cls-2" x1="77.21" y1="68.05" x2="74.41" y2="123.05"/><line class="cls-2" x1="87.68" y1="123.04" x2="94.47" y2="68.06"/><path class="cls-3" d="M16.34,67.93c-13.2,2.2-18.7-17.61-4.4-24.21C11.84,24.28,24.05,1.9,57.06,8.5,72.46-2.5,95.57,5.2,100,26.11c25.31,4.4,17.61,37.42,8.81,41.82Z"/><ellipse cx="36.67" cy="23.55" rx="6.5" ry="3.5" transform="translate(1.7 49.56) rotate(-69.35)"/><ellipse cx="102.17" cy="40.05" rx="3" ry="6" transform="translate(16.4 108.51) rotate(-60)"/><ellipse cx="40.67" cy="49.05" rx="4" ry="1.5" transform="translate(-23 46.57) rotate(-48.11)"/><ellipse cx="66.17" cy="34.55" rx="2" ry="3.5" transform="translate(-8.41 37.71) rotate(-30)"/></svg>
